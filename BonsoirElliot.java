@@ -4,8 +4,8 @@
  
 public class BonsoirElliot {
 
-public void main(String[] args) {
-	System.out.println("Bonsoir, Elliot.");
+	public void main(String[] args) {
+		System.out.println("Bonsoir, Elliot.");
 	}
 
 }
